@@ -1,41 +1,29 @@
 {
-  "name": "nodebb-theme-persona",
-  "version": "5.0.13",
+  "name": "nodebb-theme-metroidhq",
+  "version": "17.0.0",
   "nbbpm": {
     "compatibility": "^1.4.4"
   },
-  "description": "Persona theme for NodeBB",
+  "description": "Custom NodeBB theme for Metroid Headquarters.",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-theme-persona"
+    "url": "https://github.com/metroidhq/nodebb-theme-metroidhq"
   },
-  "keywords": [
-    "nodebb",
-    "theme",
-    "forum",
-    "bootstrap",
-    "responsive"
-  ],
+  "author": {
+    "name": "Andrew Rodrigues",
+    "email": "andrew@designcreateplay.com",
+    "url": "https://github.com/psychobunny"
+  },
   "contributors": [
     {
-      "name": "Andrew Rodrigues",
-      "email": "andrew@designcreateplay.com",
-      "url": "https://github.com/psychobunny"
-    },
-    {
-      "name": "Julian Lam",
-      "email": "julian@designcreateplay.com",
-      "url": "https://github.com/julianlam"
-    },
-    {
-      "name": "Barış Soner Uşaklı",
-      "email": "baris@designcreateplay.com",
-      "url": "https://github.com/barisusakli"
+      "name": "Saturnaut",
+      "email": "saturnaut@gmail.com",
+      "url": "https://github.com/saturnaut"
     }
   ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
+    "url": "https://github.com/metroidhq/nodebb-theme-metroidhq/issues"
   }
 }
